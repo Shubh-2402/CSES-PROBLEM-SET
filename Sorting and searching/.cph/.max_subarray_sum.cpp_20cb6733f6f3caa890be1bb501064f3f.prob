@@ -1,0 +1,1 @@
+{"name":"Local: max_subarray_sum","url":"c:\\Users\\HP\\Desktop\\CP\\CSES\\Sorting and searching\\max_subarray_sum.cpp","tests":[{"id":1625815200879,"input":"3\n-1 -2 -3","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\CP\\CSES\\Sorting and searching\\max_subarray_sum.cpp","group":"local","local":true}
